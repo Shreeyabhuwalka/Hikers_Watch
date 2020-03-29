@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hikers Watch</string>
+    <string name="hiker_s_watch">Hiker\'s Watch</string>
+    <string name="latitude_32">Latitude: 32</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="bearing">Bearing</string>
+    <string name="speed">Speed</string>
+    <string name="longitude_32">Longitude: 32</string>
+    <string name="altitude">Altitude</string>
+</resources>
